@@ -1,0 +1,7 @@
+/* Sum is 8*/
+
+var n=function(a,b) {
+  let s=a+b;
+  return s;
+}
+console.log("Sum is",n(3,5));
